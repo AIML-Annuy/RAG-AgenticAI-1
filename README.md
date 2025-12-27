@@ -45,3 +45,6 @@ https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
 
 ## Cheat Sheet: Advanced Multimodal Applications
 https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL2pvSk5TblBCZkxsR25xd0o2aWhIbXcvQWR2YW5jZWQlMjBNdWx0aW1vZGFsJTIwQXBwbGljYXRpb25zLXYxLm1kP3Q9MTc0NzA2NTUwNiIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYXRsYXNfZmlsZV9pZCI6MzA3NjIzLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTc1NzY5NzUzMH0.FvPc3JUkEcjGvYa-pOu5SOOXaA8FEYtdtbYh4X3fX0k
+
+## Cheat Sheet: CrewAI Fundamentals and Advanced Applications
+https://cf-courses-data.static.labs.skills.network/-1vqxVcGKMJPz3b6eVHWHw/CrewAI%20Cheat%20Sheet-v1.md.html?t=1754097561?origin=www.coursera.org
